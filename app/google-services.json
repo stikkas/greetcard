@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352301899476",
+    "firebase_url": "https://ngrxtest-c4b60.firebaseio.com",
+    "project_id": "ngrxtest-c4b60",
+    "storage_bucket": "ngrxtest-c4b60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352301899476:android:64a42a5b1853d4fc95a541",
+        "android_client_info": {
+          "package_name": "com.example.greetingcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352301899476-psj0k0ip4sa7mqc7ubfelbb3qoln9p60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greetingcard",
+            "certificate_hash": "9ef31e77c8ef18e09d6b1b63d251c4e7cb819d98"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZCeKK-r37r1sSM66jMjy90gUoW7_T_WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

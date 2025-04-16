@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Greeting Card</string>
+    <string name="contentDesc">Search icon</string>
+    <string name="item">Item for %d</string>
+    <string name="enterNumber">Enter Number</string>
+    <string name="clickMe">Click Me</string>
+</resources>
