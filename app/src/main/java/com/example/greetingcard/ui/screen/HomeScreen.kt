@@ -25,7 +25,7 @@ fun HomeScreen() {
             SuccessfulScreen()
         }
         composable("ForgotPassword") {
-            ForgotPasswordScreen()
+            ForgotPasswordScreen(navController)
         }
     }
 }
